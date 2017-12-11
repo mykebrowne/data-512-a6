@@ -1,7 +1,7 @@
 # data-512-a6
 
 #### Repo for HCDS Final Project
-This file describes the requirements and steps needed to re-produce an analysis of the relationship between: 
+This file describes the requirements and steps needed to reproduce an analysis of the relationship between: 
 1. Opioid prescribing rate 
 2. Opioid overdose rate 
 3. Poverty rate 
