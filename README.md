@@ -1,12 +1,8 @@
 # data-512-a6
 
-#### Rep for HCDS Final Project
-This file describes the requirements and steps needed to produce __[visualizations](https://github.com/mykebrowne/data-512-a2/blob/master/top10_proportion_plot.png)__ representing countries ranked in terms of: 
+#### Repo for HCDS Final Project
+This file describes the requirements and steps needed to re-produce an analysis of the relationship between opioid prescribing rate, opioid overdose rate and poverty rate in the US during 2006 to 2015.  
 
- - The number of English language Wikipedia politician articles per 1000 population 
- - The proportion of English language Wikipedia politician articles which are high quality, as predicted by the __[ORES](https://www.mediawiki.org/wiki/ORES)__ machine learning algorithm. 
- 
- 
 #### Software requirements 
 
 - __[Jupyter notebook](http://jupyter.org/about.html)__ running an R kernel.  
@@ -19,7 +15,9 @@ This file describes the requirements and steps needed to produce __[visualizatio
 - Jupyter/jupyter is licensed under the __[BSD 3-clause "New" or "Revised" License](https://github.com/jupyter/jupyter/blob/master/LICENSE)__. 
 - R as a package is licensed under GPL-2 | GPL-3. 
 - Python 2.2 and above are licensed as per https://docs.python.org/3/license.html
-- Content accessed through the __[Wikimedia Rest API](https://en.wikipedia.org/api/rest_v1/)__ is licensed under the CC-BY-SA 3.0 and GFDL licenses. 
+- Opioid prescribing rates can be found at the __CDC website(         )__
+
+Content accessed through the __[Wikimedia Rest API](https://en.wikipedia.org/api/rest_v1/)__ is licensed under the CC-BY-SA 3.0 and GFDL licenses. 
 - Use of the Wikimedia Rest API is under the __[Wikimedia Terms of Use](https://wikimediafoundation.org/wiki/Terms_of_Use/en)__.
 - Population data is provided by __[Population Reference Bureau](http://www.prb.org/DataFinder/Topic/Rankings.aspx?ind=14)__.
 - Data concerning __[English Wikipedia articles on politicians by country](https://figshare.com/articles/Untitled_Item/5513449)__ are licensed under CC-BY-SA 4.0.
