@@ -22,7 +22,7 @@ in the US during 2006 to 2015.
 - Python 2.2 and above are licensed as per https://docs.python.org/3/license.html
 - Opioid prescribing data can be found at the __[CDC website](https://www.cdc.gov/drugoverdose/maps/rxstate2006.html)__
 - Opioid overdose data can be accessed via the __[CDC WONDER database](https://wonder.cdc.gov/mcd-icd10.html)__ 
-- Poverty data can be access at the __[US Census Bureau](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_16_1YR_S1701&prodType=table)__
+- Poverty data can be accessed via the __[US Census Bureau](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_16_1YR_S1701&prodType=table)__
 
 CDC and US Census Bureau data are licensed under CC0 1.0 Universal. 
 
