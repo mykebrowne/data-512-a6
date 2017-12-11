@@ -33,17 +33,9 @@ There are three sets of data files used in this project:
 
 1. __[prescribing_rate.csv](https://github.com/mykebrowne/data-512-a6/blob/master/prescribing_rate.csv)__ which details the number of opioid prescriptions per 100 resident population at a state level during 2006 to 2015. 
 
-2. __[Overdose_2006.txt](https://github.com/mykebrowne/data-512-a6/blob/master/Overdose_2006.txt)__ which details the number of opioid overdose deaths at a state level during 2006.  
+2. __[Overdose_2006.txt](https://github.com/mykebrowne/data-512-a6/blob/master/Overdose_2006.txt)__ which details the number of opioid overdose deaths at a state level during 2006.  __[Overdose_2007.txt](https://github.com/mykebrowne/data-512-a6/blob/master/Overdose_2007.txt)__ which details the number of opioid overdose deaths at a state level during 2007 etc...
 
-__[Overdose_2006.txt](https://github.com/mykebrowne/data-512-a6/blob/master/Overdose_2007.txt)__ which details the number of opioid overdose deaths at a state level during 2007. 
-
-etc. 
-
-3. __[ACS_06_EST_S1701.csv](https://github.com/mykebrowne/data-512-a6/blob/master/ACS_06_EST_S1701.csv)__ which details the number of residents below the poverty threshold at a state level during 2006. 
-
-__[ACS_07_1YR_S1701.csv](https://github.com/mykebrowne/data-512-a6/blob/master/ACS_07_1YR_S1701.csv)__ which details the number of residents below the poverty threshold at a state level during 2007. 
-
-etc. 
+3. __[ACS_06_EST_S1701.csv](https://github.com/mykebrowne/data-512-a6/blob/master/ACS_06_EST_S1701.csv)__ which details the number of residents below the poverty threshold at a state level during 2006. __[ACS_07_1YR_S1701.csv](https://github.com/mykebrowne/data-512-a6/blob/master/ACS_07_1YR_S1701.csv)__ which details the number of residents below the poverty threshold at a state level during 2007 etc...
 
 
 #### Steps to reproduce analysis 
