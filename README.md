@@ -41,6 +41,3 @@ There are three sets of data files used in this project:
 #### Steps to reproduce analysis 
 
 This __[Jupyter notebook](https://github.com/mykebrowne/data-512-a6/blob/master/hcds-a6-final-project-report.ipynb)__ contains the steps and code needed to reproduce this analysis.  
-
-
-#### Abstract 
